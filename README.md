@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-what is a Recommendation System exactly?
+# what is a Recommendation System exactly?
 
 ![Movie Recommendation System image](https://user-images.githubusercontent.com/113494449/214251744-0a9d825a-afba-4f45-9aad-59ee828ab882.png)
 
